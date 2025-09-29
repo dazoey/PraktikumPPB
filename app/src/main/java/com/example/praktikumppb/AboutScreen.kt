@@ -41,7 +41,7 @@ fun AboutScreen() {
                 Text("About Page", style = MaterialTheme.typography.headlineMedium, textAlign = TextAlign.Center)
                 Spacer(modifier = Modifier.height(16.dp))
                 Text("Aplikasi Praktikum PPB dengan Jetpack Compose",textAlign = TextAlign.Center)
-                Text("Dibuat oleh Kelompok x", textAlign = TextAlign.Center)
+                Text("Dibuat oleh Kelompok 10", textAlign = TextAlign.Center)
                 Spacer(modifier = Modifier.height(10.dp))
             }
         }
